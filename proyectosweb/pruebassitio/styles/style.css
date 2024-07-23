@@ -1,0 +1,33 @@
+html{
+    font-size: 10px;
+    font-family: "open sans", sans-serif;
+    background-color:#4d0202
+}
+body{
+  width:700px;
+  margin: 0 auto;
+  padding: 0 40px 40px 40px;
+  border: 5px solid rgb(14, 14, 14);
+  background-color:aquamarine;
+}
+
+h1{
+  margin: 0;
+  color:#4d0202;
+  border:5px solid white;
+  padding: 20px;
+  font-size: 60px;
+  text-align: center;
+}
+p,
+li,
+a{
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+.mi-clase2{
+  width:500px;
+  margin: 20px auto;
+  display:block;
+}

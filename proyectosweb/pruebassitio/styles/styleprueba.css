@@ -1,0 +1,38 @@
+p{
+    color: red; 
+}
+a{
+    color: violet;
+}   
+
+/* p: selector 
+color:propiedad
+/*blue: valor de la propiedad
+color + blue = DECLARACION
+TODO JUNTO SE LLAMA REGLA.
+
+SELECCIONAR VARIOS ELEMENTOS.
+*/
+h1,
+ul
+{
+    color:blueviolet;
+}
+
+.mi-clase{
+    color:black;
+}
+/* .MI-CLASE: ES UN SELECTOR PARA UNA CLASE DEFINIDA DENTRO DE UN ELEMENTO EN HTML
+SE DEBE PONER EL VALOR DEL ATRIBUTO CLASS*/
+
+a:hover{
+    color: red;
+}
+/*a:hover selector de pseudoclase. Es cuando cambia de color pero cuando el puntero este en
+el lugar especificado*/
+
+html{
+    background-color: #C14242
+}
+
+/* esta propiedad de backgorund-color se utiliza para dar color al fondo de la pagina */
